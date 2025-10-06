@@ -1,0 +1,14 @@
+{
+  "market_data": {
+    "F6": "24654.7",
+    "F7": "24716.25",
+    "F8": "61.54999999999927",
+    "G2": "FUTURE",
+    "Q2": "None",
+    "Q4": "None",
+    "Q6": "None"
+  },
+  "detected_strike_column": "I",
+  "detected_data_start_row": 13,
+  "timestamp": "2025-10-03"
+}

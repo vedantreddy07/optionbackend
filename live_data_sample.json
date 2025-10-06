@@ -1,0 +1,247 @@
+{
+  "symbol": "NIFTY",
+  "option_expiry": "07-10-2025",
+  "future_expiry": "30-09-2025",
+  "chain_length": 10,
+  "timestamp": "2025-10-03 12:50:28",
+  "spot_ltp": 24654.7,
+  "spot_ltp_change": 24716.25,
+  "spot_ltp_change_pct": 61.54999999999927,
+  "future_price": "FUTURE",
+  "pcr": 0,
+  "max_pain": 0,
+  "india_vix": 0,
+  "data_source": "excel_live",
+  "option_chain": [
+    {
+      "strike": 2.75,
+      "call": {
+        "ltp": 24200.0,
+        "ltp_change": 552.8,
+        "volume": 53.549999999999955,
+        "oi": 143625.0,
+        "oi_change": 870.0,
+        "iv": 75.0,
+        "avg_price": 0.34682740448699384,
+        "interpretation": 541.99
+      },
+      "put": {
+        "ltp": -4.5,
+        "ltp_change": 60188100.0,
+        "volume": 98244.0,
+        "oi": 19297.0,
+        "oi_change": 0.20390916493018768,
+        "iv": 3.17,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 10.0
+      }
+    },
+    {
+      "strike": 3.0,
+      "call": {
+        "ltp": 24250.0,
+        "ltp_change": 502.9,
+        "volume": 54.799999999999955,
+        "oi": 53175.0,
+        "oi_change": 358.0,
+        "iv": 71.0,
+        "avg_price": 0.32357599290203704,
+        "interpretation": 491.13
+      },
+      "put": {
+        "ltp": -5.800000000000001,
+        "ltp_change": 36636675.0,
+        "volume": 28652.0,
+        "oi": 9698.0,
+        "oi_change": 0.19014447318047364,
+        "iv": 3.67,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 10.0
+      }
+    },
+    {
+      "strike": 3.55,
+      "call": {
+        "ltp": 24300.0,
+        "ltp_change": 453.65,
+        "volume": 53.5,
+        "oi": 618600.0,
+        "oi_change": 1319.0,
+        "iv": 128.0,
+        "avg_price": 0.3020551050697198,
+        "interpretation": 427.48
+      },
+      "put": {
+        "ltp": -7.2,
+        "ltp_change": 77926725.0,
+        "volume": 73824.0,
+        "oi": 21245.0,
+        "oi_change": 0.17854077314067654,
+        "iv": 4.35,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 10.0
+      }
+    },
+    {
+      "strike": 4.15,
+      "call": {
+        "ltp": 24350.0,
+        "ltp_change": 398.0,
+        "volume": 43.0,
+        "oi": 326400.0,
+        "oi_change": 681.0,
+        "iv": 156.0,
+        "avg_price": 0.2591539517254645,
+        "interpretation": 389.68
+      },
+      "put": {
+        "ltp": -9.5,
+        "ltp_change": 64674825.0,
+        "volume": 41969.0,
+        "oi": 21222.0,
+        "oi_change": 0.16592922262035534,
+        "iv": 5.49,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 10.0
+      }
+    },
+    {
+      "strike": 5.2,
+      "call": {
+        "ltp": 24400.0,
+        "ltp_change": 356.05,
+        "volume": 48.05000000000001,
+        "oi": 2785425.0,
+        "oi_change": 3760.0,
+        "iv": -2590.0,
+        "avg_price": 0.25948575326189693,
+        "interpretation": 337.92
+      },
+      "put": {
+        "ltp": -12.45,
+        "ltp_change": 133119075.0,
+        "volume": 98543.0,
+        "oi": 24992.0,
+        "oi_change": 0.15487854381255722,
+        "iv": 7.32,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 10.0
+      }
+    },
+    {
+      "strike": 6.9,
+      "call": {
+        "ltp": 24450.0,
+        "ltp_change": 308.4,
+        "volume": 45.849999999999966,
+        "oi": 2088975.0,
+        "oi_change": 1673.0,
+        "iv": 472.0,
+        "avg_price": 0.23979402100227448,
+        "interpretation": 286.97
+      },
+      "put": {
+        "ltp": -16.049999999999997,
+        "ltp_change": 113899575.0,
+        "volume": 60528.0,
+        "oi": 21216.0,
+        "oi_change": 0.14498858456021177,
+        "iv": 10.19,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 10.0
+      }
+    },
+    {
+      "strike": 9.65,
+      "call": {
+        "ltp": 24500.0,
+        "ltp_change": 259.7,
+        "volume": 39.44999999999999,
+        "oi": 20749500.0,
+        "oi_change": 27004.0,
+        "iv": -1122.0,
+        "avg_price": 0.2157942805984398,
+        "interpretation": 246.2
+      },
+      "put": {
+        "ltp": -20.549999999999997,
+        "ltp_change": 254653125.0,
+        "volume": 205754.0,
+        "oi": 40573.0,
+        "oi_change": 0.13622873671732535,
+        "iv": 14.37,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 7.619389720041475
+      }
+    },
+    {
+      "strike": 13.5,
+      "call": {
+        "ltp": 24550.0,
+        "ltp_change": 213.55,
+        "volume": 33.05000000000001,
+        "oi": 15944625.0,
+        "oi_change": 11267.0,
+        "iv": 6526.0,
+        "avg_price": 0.1962445044158359,
+        "interpretation": 191.23
+      },
+      "put": {
+        "ltp": -27.15,
+        "ltp_change": 188084025.0,
+        "volume": 100960.0,
+        "oi": 61041.0,
+        "oi_change": 0.1267064320319682,
+        "iv": 20.87,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 8.96068163663797
+      }
+    },
+    {
+      "strike": 19.55,
+      "call": {
+        "ltp": 24600.0,
+        "ltp_change": 169.7,
+        "volume": 25.349999999999994,
+        "oi": 96365400.0,
+        "oi_change": 52774.0,
+        "iv": 21646.0,
+        "avg_price": 0.17878821725401922,
+        "interpretation": 152.92
+      },
+      "put": {
+        "ltp": -34.900000000000006,
+        "ltp_change": 426603825.0,
+        "volume": 245940.0,
+        "oi": 122986.0,
+        "oi_change": 0.11782834281935854,
+        "iv": 30.26,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 4.660249365217721
+      }
+    },
+    {
+      "strike": 27.9,
+      "call": {
+        "ltp": 24650.0,
+        "ltp_change": 128.8,
+        "volume": 17.05000000000001,
+        "oi": 152126250.0,
+        "oi_change": 70771.0,
+        "iv": 29738.0,
+        "avg_price": 0.16296884390599767,
+        "interpretation": 114.5
+      },
+      "put": {
+        "ltp": -44.4,
+        "ltp_change": 439001325.0,
+        "volume": 158619.0,
+        "oi": 90384.0,
+        "oi_change": 0.10717818701155986,
+        "iv": 41.28,
+        "avg_price": "FRESH_SHORT",
+        "interpretation": 2.2412994022975514
+      }
+    }
+  ]
+}
